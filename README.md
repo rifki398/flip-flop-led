@@ -1,5 +1,18 @@
 # Flip Flop LED
 This project provides schematic and PCB layout of a simple **Flip Flop LED circuit** using basic electronic components. The circuit alternately turns LEDs on and off (blinking pattern), often used for learning the basics of electronics, digital logic, and timing circuits.
+<table>
+  <tr>
+    <td align="center">
+      <img src="figure/LED Flip Flop_Front.png" alt="front" height="270"/>
+      <br/>Front View of The Board
+    </td>
+    <td align="center">
+      <img src="figure/LED Flip Flop_Black.png" alt="back" height="270"/>
+      <br/>Back View of The Board
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -22,5 +35,7 @@ This project provides schematic and PCB layout of a simple **Flip Flop LED circu
 ---
 
 ## Circuit Diagram
-> The flip flop effect can be achieved using a pair of transistors with cross-coupled capacitors.  
-(Add your **schematic image** here, e.g. `![Circuit Diagram](circuit.png)`)
+The flip flop effect can be achieved using a pair of transistors with cross-coupled capacitors.  
+<p align="center">
+  <img src="figure/schematic.png" alt="schematic" style="width:55%; height:auto;"/>
+</p> 
