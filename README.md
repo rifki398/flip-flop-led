@@ -7,7 +7,7 @@ This project provides schematic and PCB layout of a simple **Flip Flop LED circu
       <br/>Front View of The Board
     </td>
     <td align="center">
-      <img src="figure/LED Flip Flop_Black.png" alt="back" height="270"/>
+      <img src="figure/LED Flip Flop_Back.png" alt="back" height="270"/>
       <br/>Back View of The Board
     </td>
   </tr>
